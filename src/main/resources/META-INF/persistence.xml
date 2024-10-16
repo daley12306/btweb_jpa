@@ -16,7 +16,7 @@
 		value="true" /> </properties> </persistence-unit> -->
 
 
-	<persistence-unit name="jpa-hibernate-mysql">
+	<persistence-unit name="jpa-hibernate-sql">
 		<class>vn.iotstar.entity.Category</class>
 		<class>vn.iotstar.entity.Video</class>
 		<properties>
